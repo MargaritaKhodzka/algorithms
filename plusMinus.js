@@ -1,3 +1,5 @@
+// Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero
+// Print the ratios of positive, negative and zero values in the array
 const plusMinus = (arr) => {
     let positive = 0;
     let negative = 0;

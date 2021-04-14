@@ -1,3 +1,12 @@
+// Print a staircase of size n using # symbols and spaces
+// Sample output
+//      #
+//     ##
+//    ###
+//   ####
+//  #####
+// ######
+
 const staircase = (n) => {
     for (let i = 1; i <= n; i++) {
         let row = '';
