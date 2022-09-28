@@ -1,6 +1,9 @@
 #include <cs50.h>
 #include <stdio.h>
 
+/*
+iterate over an array of integers to find a match
+*/
 int main(void)
 {
     int numbers[] = {4, 6, 8, 2, 7, 5, 0};

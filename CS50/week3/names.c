@@ -2,6 +2,10 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+string comparison
+iterate over an array of strings to find a match
+*/
 int main(void)
 {
     string names[] = {"Bill", "Charlie", "Fred", "George", "Ginny", "Percy", "Ron"};

@@ -2,6 +2,10 @@
 #include <stdio.h>
 #include <string.h>
 
+/*
+struct
+string comparison
+*/
 typedef struct
 {
     string name;
