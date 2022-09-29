@@ -1,6 +1,7 @@
 #include <cs50.h>
 #include <stdio.h>
 
+// asking for user input with get_char
 int main(void)
 {
     char c = get_char("Do you agree? ");

@@ -1,6 +1,9 @@
 #include <cs50.h>
 #include <stdio.h>
 
+/*
+drawing a pyramid
+*/
 int main(void)
 {
     int n;

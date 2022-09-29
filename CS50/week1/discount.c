@@ -1,6 +1,11 @@
 #include <cs50.h>
 #include <stdio.h>
 
+/*
+the prototype is above the main function
+prototype performs calculation
+function returns the discounted price
+*/
 float discount(float price, int percentage);
 
 int main(void)
